@@ -34,3 +34,7 @@ Now type "py status.pyw" and hit enter. now your ready to roll!
 ![image](https://user-images.githubusercontent.com/75420281/119743040-a3d05c80-be4e-11eb-8e70-ff4acee0b915.png)
 
 ![image](https://user-images.githubusercontent.com/75420281/119742992-8c916f00-be4e-11eb-8e5a-59aefe810227.png)
+
+Want to auto boot when your computer starts?
+
+On Windows to set this to start on boot, simply take the status.pyw, right click it, hover over "Send to" then click "Desktop (create shortcut)". Then cut the icon from your desktop, go to shell:startup in Windows Explorer and paste it in there.
