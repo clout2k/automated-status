@@ -11,6 +11,7 @@ Edit the config.yaml to your liking.
 
 Its best to only change URL's and the cycle of status.
 for more help contact clout#0999 or email me at clout@lockrmail.com
+![contact](https://user-images.githubusercontent.com/75420281/119743626-e8102c80-be4f-11eb-9bab-edd4e61d5fb4.png)
 
 
 
