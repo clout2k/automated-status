@@ -1,17 +1,18 @@
 # -----------------
-# DCustomRPC Config
+# Status Config
 # -----------------
 # Please read the README.md before asking for support.
 
 client_id: 846271751713194004
 # The client ID of the application you made on the Discord Developers page.
-
+# Dont change this unless you have your own client ID setup
 game_cycle:
 
   time_until_cycle: 7
   # The time until the game cycles.
 
   games:
+  #Its best to only change the url directory. yaml files have to meet specific requiremnts so if you want to delete once of the cycles delete the dash and below. dont delete the next dash that follows.
     -
       details: Follow my soundcloud!
       state: watch my status change.
