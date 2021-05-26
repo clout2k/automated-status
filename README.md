@@ -1,5 +1,5 @@
 # automated-status
-Automated status that changes between multiple.
+Automated status that changes between multiple rich presences with buttons.
 
 Easy to config. Just Download python from here 
 https://www.python.org/ftp/python/3.6.6/python-3.6.6.exe
