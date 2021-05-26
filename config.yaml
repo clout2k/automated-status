@@ -1,0 +1,65 @@
+# -----------------
+# DCustomRPC Config
+# -----------------
+# Please read the README.md before asking for support.
+
+client_id: 846271751713194004
+# The client ID of the application you made on the Discord Developers page.
+
+game_cycle:
+
+  time_until_cycle: 7
+  # The time until the game cycles.
+
+  games:
+    -
+      details: Follow my soundcloud!
+      state: watch my status change.
+      large_image: soundcloud
+      large_text: Cool music
+      buttons:
+      - label: Follow On Sounndcloud
+        url: https://soundcloud.com/cloutent
+
+    -
+      details: Follow my instagram!
+      state: watch my status change.
+      large_image: instagram
+      large_text: possibly?
+      buttons:
+      - label: Follow On Instagram
+        url: https://instagram.com/cloutent.vhs
+    -
+      details: Follow my twitter!
+      state: watch my status change.
+      large_image: twitter
+      large_text: does anybody even use twitter?
+      buttons:
+      - label: Follow On Twitter
+        url: https://twitter.com/cloutent2k
+    -
+      details: Follow my twitch!
+      state: watch my status change.
+      large_image: twitch
+      large_text: POG!!!!
+      small_image: lul
+      buttons:
+      - label: Follow On Twitch
+        url: https://twitch.tv/heycloutent
+    -
+      details: Follow my youtube!
+      state: watch my status change.
+      large_image: youtube
+      large_text: Subribe pwease
+      buttons:
+      - label: Subscibe
+        url: https://youtube.com/Cloutent2k
+    -
+      details: Join my server !!!
+      state: watch my status change.
+      large_image: catlarge
+      large_text: meow
+      buttons:
+      - label: Join Server
+        url: https://dsc.gg/fucktheworld
+  # The list of games that it will cycle through.
