@@ -30,6 +30,7 @@ When in the proper directory type "py -m pip install -r requirements.txt" this s
 ![require](https://user-images.githubusercontent.com/75420281/119742852-4d631e00-be4e-11eb-8db3-6c0b55ef2e78.png)
 
 Now type "py status.pyw" and now your ready to roll!
+
 ![image](https://user-images.githubusercontent.com/75420281/119743040-a3d05c80-be4e-11eb-8e70-ff4acee0b915.png)
 
-Its working when you see this message ![image](https://user-images.githubusercontent.com/75420281/119742992-8c916f00-be4e-11eb-8e5a-59aefe810227.png)
+![image](https://user-images.githubusercontent.com/75420281/119742992-8c916f00-be4e-11eb-8e5a-59aefe810227.png)
